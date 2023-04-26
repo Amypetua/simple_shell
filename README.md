@@ -231,10 +231,10 @@ Example:
       $ echo $NAM
       $
 
-# AUTHORS
-Chiamaka Anachusi - [https://www.linkedin.com/in/chiamaka-anachusi-b-sc-pgde-aca-82a90baa\] | [https://twitter.com/AnachusiChiamak/] | [https://facebook.com/Amakasim/]
+© AUTHORS
+1. Chiamaka Anachusi - [Linkedin](https://www.linkedin.com/in/chiamaka-anachusi-b-sc-pgde-aca-82a90baa] | [Twitter](https://twitter.com/AnachusiChiamak) | [Facebook](https://facebook.com/Amakasim) 
 
-Tosin Iyiola - [https://github.com/Tosinval\]
+2. Tosin Iyiola - [github](https://github.com/Tosinval) 
 
 # REFERENCE AND ACKNOWLEDGEMENT
 This README borrows form the Linux man pages [https://linux.die.net/man/1/sh/] and [https://linux.die.net/man/1/dash/] 
