@@ -237,6 +237,6 @@ Example:
 2. Tosin Iyiola - [github](https://github.com/Tosinval) 
 
 # REFERENCE AND ACKNOWLEDGEMENT
-This README borrows form the Linux man pages [https://linux.die.net/man/1/sh/] and [https://linux.die.net/man/1/dash/] 
-This project was written as part of the curriculum of the ALX-SE programme by Holberton School. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information about ALX, visit [https://www.alxafrica.com/]
+This README borrows from the [Linux man pages](https://linux.die.net/man/1/sh)(https://linux.die.net/man/1/dash) 
+This project was written as part of the curriculum of the ALX-SE programme by Holberton School. Holberton School is a campus-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information about ALX, visit [Alx site](https://www.alxafrica.com) 
 
