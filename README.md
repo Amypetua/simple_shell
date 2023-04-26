@@ -232,7 +232,7 @@ Example:
       $
 
 © AUTHORS
-1. Chiamaka Anachusi - [Linkedin](https://www.linkedin.com/in/chiamaka-anachusi-b-sc-pgde-aca-82a90baa] | [Twitter](https://twitter.com/AnachusiChiamak) | [Facebook](https://facebook.com/Amakasim) 
+1. Chiamaka Anachusi - [Linkedin](https://www.linkedin.com/in/chiamaka-anachusi-b-sc-pgde-aca-82a90baa) | [Twitter](https://twitter.com/AnachusiChiamak) | [Facebook](https://facebook.com/Amakasim) 
 
 2. Tosin Iyiola - [github](https://github.com/Tosinval) 
 
